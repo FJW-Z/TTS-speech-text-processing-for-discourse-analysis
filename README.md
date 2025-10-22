@@ -1,4 +1,4 @@
-# TTS-speech-text-processing-for-discourse-analysis
+# TTS-Speech-Text Processing Tools for Discourse Analysis  
 a program to process linguistic data in a TTS project for a moblile phone voice assistant (as an intern linguistic engineer)
 
 # TTS-Speech-Text Processing Tools for Discourse Analysis  
